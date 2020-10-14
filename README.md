@@ -1,5 +1,7 @@
 # Projeto Datastore
 Aluno: Higor Férrer de Oliveira Leite<br>
+       Joao Vitor Aparecido<br> 
+       Lucas Henrique Ferreira Amaral<br>
 Centro Universitário de Patos de Minas
 
 
